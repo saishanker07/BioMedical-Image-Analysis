@@ -7,4 +7,5 @@ base_folder = r"C:\Users\HP\Desktop\Bio Medical Image Analysis\Brain Tumor\Testi
 
 Step 3:
 Run the fractal_analysis_brain.py in the terminal
-                                
+
+The generated graph will be saved in Testing base_folder
