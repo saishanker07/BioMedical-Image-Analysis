@@ -41,7 +41,7 @@ def fractal_dimension(image_path, box_sizes):
     return fd
 
 # Define Paths
-base_folder = r"C:\Users\HP\Bio Medical Analysis\Brain Tumor\Testing"
+base_folder = r"C:\Users\HP\Desktop\Bio Medical Image Analysis\Brain Tumor\Testing"
 output_graph_path = os.path.join(base_folder, "fractal_dimensions_updated.png")
 
 # Define box sizes for box-counting method

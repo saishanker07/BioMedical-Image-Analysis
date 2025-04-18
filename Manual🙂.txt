@@ -1,0 +1,10 @@
+Step 1:
+pip install -r requirements.txt
+
+Step 2:
+Change line {44} in the fractal_analysis_brain.py
+base_folder = r"C:\Users\HP\Desktop\Bio Medical Image Analysis\Brain Tumor\Testing" to your path location
+
+Step 3:
+Run the fractal_analysis_brain.py in the terminal
+                                
